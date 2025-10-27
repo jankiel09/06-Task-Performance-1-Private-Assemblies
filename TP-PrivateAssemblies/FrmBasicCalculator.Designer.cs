@@ -1,6 +1,6 @@
 ﻿namespace ClassLibraryDemo1
 {
-    partial class FrmCalculator
+    partial class FrmBasicCalculator
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmCalculator));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmBasicCalculator));
             label1 = new Label();
             txtBox1 = new TextBox();
             cbOperator = new ComboBox();

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorPrivateAssembly", "CalculatorPrivateAssembly\CalculatorPrivateAssembly.csproj", "{744CB1F0-4C59-42EA-8B4A-9F75AFAE0405}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP-PrivateAssemblies", "TP-PrivateAssemblies\TP-PrivateAssemblies.csproj", "{27B2A067-3682-454D-8627-53F8AC4219EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCalculator", "TP-PrivateAssemblies\BasicCalculator.csproj", "{27B2A067-3682-454D-8627-53F8AC4219EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

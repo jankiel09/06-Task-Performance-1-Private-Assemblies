@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ClassLibraryDemo1
 {
-    public partial class FrmCalculator : Form
+    public partial class FrmBasicCalculator : Form
     {
-        public FrmCalculator()
+        public FrmBasicCalculator()
         {
             InitializeComponent();
         }

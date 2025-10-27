@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Update="FrmCalculator.cs">
+    <Compile Update="FrmBasicCalculator.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
